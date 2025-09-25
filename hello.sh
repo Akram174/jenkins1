@@ -1,4 +1,4 @@
 #!/bin/bash
 echo "Hello from Vaseem, learning build triggers!"
-date
+echo "This is built by jenkins, by detecting using poll scm"
 
